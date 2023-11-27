@@ -163,6 +163,12 @@ const invoices = [
     status: 'paid',
     date: '2022-06-05',
   },
+  {
+    customer_id: customers[5].id,
+    amount:2000,
+    status: 'paid',
+    date: '2023-11-26',
+  },
 ];
 
 const revenue = [
