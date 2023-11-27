@@ -1,6 +1,7 @@
 {
   "conventionalCommits.scopes": [
     "/app/ui/invoices/table.tsx",
-    "app/dashboard/page.txs"
+    "app/dashboard/page.txs",
+    "app/lib/data.ts"
   ]
 }
