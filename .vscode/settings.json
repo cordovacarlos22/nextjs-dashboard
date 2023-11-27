@@ -1,5 +1,6 @@
 {
   "conventionalCommits.scopes": [
-    "/app/ui/invoices/table.tsx"
+    "/app/ui/invoices/table.tsx",
+    "app/dashboard/page.txs"
   ]
 }
